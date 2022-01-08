@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg{
+     background: #213e4b;
+     padding: 5rem 0rem;
+}
+
+.bg-content, .section-content{
+    width: 80%;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+.cnt{
+    width: 70%;
+}
+
+.bg-content p, h1{
+    color: white;
+}
+
+.section-content h2, p{
+    padding: 0.6em 0;
+}
